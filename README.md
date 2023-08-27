@@ -13,7 +13,7 @@
   
   <h2>📊 GitHub Stats</h2>
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRah&show_icons=true&theme=dark)
+  ![GitHub Stats](https://github-readme-stats-indol-nine-46.vercel.app/api?username=AhmedRah&show_icons=true&theme=tokyonight)
   
   <h2>🚀 My Projects</h2>
   
