@@ -1,16 +1,35 @@
-### Hi there 👋
+<div align="center">
+  <h1>🚀 Welcome to My GitHub Profile 🚀</h1>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=ahmed-github&color=blueviolet)
+  
+  <p>I'm Ahmed, a passionate Backend Engineer with a focus on DevOps and Cloud. I thrive on turning code into scalable and efficient solutions.</p>
+  
+  <p>🌟 Here are some of the things I work with:</p>
+  
+  ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Node.js%20%7C%20Typescript%20%7C%20Python%20%7C%20MongoDB%20%7C%20PostgresDB%20%7C%20AWS%20%7C%20Docker%20%7C%20React-blueviolet)
 
-<!--
-**AhmedRah/AhmedRah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>🌱 Currently, I'm exploring the exciting world of Rust and working towards becoming an AWS Certified Solution Architect.</p>
+  
+  <h2>📊 GitHub Stats</h2>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-github&show_icons=true&theme=dark)
+  
+  <h2>🚀 My Projects</h2>
+  
+  <!-- Add your projects here with links and descriptions -->
+  - [Project 1](link) - Description.
+  - [Project 2](link) - Description.
+  
+  <h2>🌟 Connect with Me</h2>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue)](https://www.linkedin.com/in/ahmed-linkedin-profile/)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-blue)](https://twitter.com/ahmed-twitter-profile)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-orange)](https://www.ahmed-portfolio-website.com/)
+  
+  <h2>🌐 Find Me Around the Web</h2>
+  
+  - 📝 [Blog](https://ahmed-blog-link.com) - Read my latest articles on tech and development.
+  - 📷 [Instagram](https://www.instagram.com/ahmed-instagram-profile/) - See the world through my lens.
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
