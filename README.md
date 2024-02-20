@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚀 Hello there 🚀</h1>
 
-  <p>I'm Ahmed, a Backend Engineer with a focus on DevOps and Cloud. I thrive on turning code into scalable and efficient solutions.</p>
+  <p>I'm Ahmed, a fullstack Engineer with a heavy focus on backend/DevOps and Cloud. I thrive on turning code into scalable and efficient solutions.</p>
   
   <p>🌟 Here are some of the things I work with:</p>
   
@@ -22,8 +22,6 @@
   <h2>🌟 Connect with Me</h2>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue)](https://www.linkedin.com/in/ahmed-rahmouni/)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-blue)](https://twitter.com/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-orange)](https://www.ahmed-portfolio-website.com/)
   
   <h2>🌐 Find Me Around the Web</h2>
   
