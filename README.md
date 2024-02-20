@@ -11,7 +11,7 @@
   
   <h2>📊 GitHub Stats</h2>
   
-  ![GitHub Stats](https://github-readme-stats-indol-nine-46.vercel.app/api?username=AhmedRah&show_icons=true&theme=tokyonight)
+  ![GitHub Stats](https://github-readme-stats-hazel-omega-96.vercel.app/api?username=AhmedRah&show_icons=true&theme=tokyonight)
   <!-- ![Top Langs](https://github-readme-stats-indol-nine-46.vercel.app/api/top-langs/?username=AhmedRah&theme=tokyonight) -->
 
   <!-- <h2>🚀 My Projects</h2>
